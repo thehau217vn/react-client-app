@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bạn Hậu hả ?
+          Hallo Tuyên Shiba ?
         </a>
       </header>
     </div>
